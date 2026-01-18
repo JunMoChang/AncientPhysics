@@ -326,19 +326,19 @@ git clone [你的仓库地址]
 
 **联系方式:**
 
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@JunMoChang](https://github.com/JunMoChang)
 - 邮箱: your.email@example.com
 
 **反馈:**
 
-- 如果发现bug或有建议,欢迎提 [Issues](https://github.com/your-username/GU_LI/issues)
+- 如果发现bug或有建议,欢迎提 [Issues](https://github.com/JunMoChang/GU_LI/issues)
 - 如果这个项目对你有帮助,给个 ⭐ Star 吧!
 
 ------
 
 ## 📄 许可证
 
-本项目采用 MIT 许可证 - 详见 [LICENSE](https://claude.ai/chat/LICENSE)
+本项目采用 [MIT License](LICENSE)
 
 ------
 
