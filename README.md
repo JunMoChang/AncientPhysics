@@ -6,7 +6,7 @@
 
 **引擎版本**：Unity 2022.3 LTS · URP · C#
 
-📺 [演示视频（B 站）](https://www.bilibili.com/video/BV1XmkxBeESV)
+📺 演示视频：[B 站](https://www.bilibili.com/video/BV1XmkxBeESV) · [仓库内视频文件](docs/demo.mp4)
 
 ---
 
