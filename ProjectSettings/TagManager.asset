@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Paper
+  - FocusCamera
+  - PlayerCamera
+  - Weight
+  - Canvas
+  - DefaultPanel
+  - OriginalPosition
+  - CandleBody
+  - CandleFire
+  - NoFollowPlayer
+  - Pulley
+  - FreePlatform
+  - CarrierPlatform
+  - DialogueBoxPanel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Interaction
+  - Ground
+  - Stuff
+  - Wall
+  - NoRender
+  - Light
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

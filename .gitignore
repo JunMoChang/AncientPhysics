@@ -1,0 +1,83 @@
+# ---------------------------------------------------------------
+# Unity 生成目录
+# ---------------------------------------------------------------
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Asset meta 文件：仅当对应资源也被忽略时才忽略
+!/[Aa]ssets/**/*.meta
+
+# ---------------------------------------------------------------
+# IDE / 自动生成的项目文件
+# ---------------------------------------------------------------
+.idea/
+.vs/
+.vscode/
+.consulo/
+ExportedObj/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.DotSettings.user
+
+# ---------------------------------------------------------------
+# 构建产物
+# ---------------------------------------------------------------
+*.apk
+*.aab
+*.unitypackage
+*.app
+crashlytics-build.properties
+
+# ---------------------------------------------------------------
+# 第三方资源 —— 版权限制或体积过大，不随本仓库分发
+# 补齐方式见 README「运行项目」一节
+# ---------------------------------------------------------------
+
+# Obi Rope：付费插件，禁止再分发
+/[Aa]ssets/Obi/
+
+# 资源包
+/[Aa]ssets/AllSkyFree/
+/[Aa]ssets/PackManager/
+/[Aa]ssets/AssetsStore/
+/[Aa]ssets/Floor materials pack/
+
+# lilToon 着色器
+/[Aa]ssets/lilToon/
+
+# TextMesh Pro：由菜单或 Package Manager 导入
+/[Aa]ssets/TextMesh Pro/
+
+# Zenject 的可选扩展与测试，运行时不需要
+/[Aa]ssets/Plugins/Zenject/OptionalExtras/
+
+# 环境贴图（约 278MB，来自资源包）
+/[Aa]ssets/Resources/Environment/*
+# 小孔成像的 RenderTexture 是本项目自己的资源，保留
+!/[Aa]ssets/Resources/Environment/HoleImage.renderTexture
+!/[Aa]ssets/Resources/Environment/HoleImage.renderTexture.meta
+
+# ---------------------------------------------------------------
+# 本地配置（含 API Key，绝对不要提交）
+# ---------------------------------------------------------------
+/[Aa]ssets/StreamingAssets/config.json
+/[Aa]ssets/StreamingAssets/config.json.meta
